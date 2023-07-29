@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm a Second Year Data Science Student at ESCOM, IPN.<br>
-I'm currently living in Mexico City and I really love DOGS! <br>
+I enjoy Competitive Programming and Math. <br>
 
 
 # 💻 Tech Stack:
