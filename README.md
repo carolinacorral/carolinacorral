@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Second Year Data Science Student at ESCOM, IPN.<br>
+I'm a Third Year Data Science Student at ESCOM, IPN.<br>
 I enjoy Competitive Programming and Math. <br>
 
 
