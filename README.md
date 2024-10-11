@@ -1,6 +1,7 @@
 # 💫 About Me:
 I'm a Third Year Data Science Student at ESCOM, IPN.<br>
-I enjoy Competitive Programming and Math. <br>
+I enjoy Competitive Programming, Math, and Data Analytics. <br>
+Secretly, I am actually a seal in disguise. 
 
 
 # 💻 Tech Stack:
