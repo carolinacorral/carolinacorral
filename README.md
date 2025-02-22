@@ -1,6 +1,7 @@
 # 💫 About Me:
-I'm a Third Year Data Science Student at ESCOM, IPN.<br>I enjoy Competitive Programming, Math, and Data Analytics. (I am actually a seal in disguise). <br>
-I run a Discord community for people interested in Data Science, we give resume advice, share job opportunities and make friends! <br>
+I'm a Senior Year Data Science Student at ESCOM, IPN.<br>I enjoy Competitive Programming, Math, and Data Analytics. (I am actually a seal in disguise). <br>
+I run a Discord community for people interested in Data Science, we answer questions, give resume advice, share job opportunities and make friends! <br>
+
 
 
 
